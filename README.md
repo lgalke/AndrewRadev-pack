@@ -1,4 +1,4 @@
-# tpope-pack
+# AndrewRadev-pack
 
 This repository maintains a collection of vim plugins created by [Andrew Radev](https://github.com/AndrewRadev).
 The goal is to make them installable all at once using `vim8 +packages`.
