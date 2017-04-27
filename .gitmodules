@@ -1,0 +1,9 @@
+[submodule "start/splitjoin.vim"]
+	path = start/splitjoin.vim
+	url = git@github.com:AndrewRadev/splitjoin.vim.git
+[submodule "start/sideways.vim"]
+	path = start/sideways.vim
+	url = git@github.com:AndrewRadev/sideways.vim.git
+[submodule "start/deleft.vim"]
+	path = start/deleft.vim
+	url = git@github.com:AndrewRadev/deleft.vim.git
