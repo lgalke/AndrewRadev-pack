@@ -16,4 +16,5 @@ git clone --recursive https://github.com/lgalke/AndrewRadev-pack.git
 - [start/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim)
 - [start/deleft.vim](https://github.com/AndrewRadev/deleft.vim)
 - [start/sideways.vim](https://github.com/AndrewRadev/sideways.vim)
+- [start/linediff.vim](https://github.com/AndrewRadev/linediff.vim)
 
