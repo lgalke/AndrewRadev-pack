@@ -7,3 +7,6 @@
 [submodule "start/deleft.vim"]
 	path = start/deleft.vim
 	url = git@github.com:AndrewRadev/deleft.vim.git
+[submodule "start/linediff.vim"]
+	path = start/linediff.vim
+	url = git@github.com:AndrewRadev/linediff.vim.git
