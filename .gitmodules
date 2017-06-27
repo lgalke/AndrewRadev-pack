@@ -13,3 +13,6 @@
 [submodule "start/splitjoin.vim"]
 	path = start/splitjoin.vim
 	url = https://github.com/AndrewRadev/splitjoin.vim
+[submodule "start/switch.vim"]
+	path = start/switch.vim
+	url = https://github.com/AndrewRadev/switch.vim
